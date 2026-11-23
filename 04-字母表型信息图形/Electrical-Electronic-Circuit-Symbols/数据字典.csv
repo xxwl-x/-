@@ -1,0 +1,7 @@
+field_name,field_type,description,example
+object_id,string,独立符号对象唯一编号,S001
+row_index,integer,符号在原图中的行序,1
+column_index,integer,符号在原图中的列序,1
+displayed_name,string,图片中可辨认的英文名称,Wires
+object_type,string,对象统一类型,circuit_symbol
+source_status,string,名称识别状态,visible_label
