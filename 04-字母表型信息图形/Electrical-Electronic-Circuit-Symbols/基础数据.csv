@@ -1,0 +1,96 @@
+object_id,row_index,column_index,displayed_name,object_type,source_status
+S001,1,1,"Wires",circuit_symbol,visible_label
+S002,1,2,"Connected Wires",circuit_symbol,visible_label
+S003,1,3,"Unconnected Wires",circuit_symbol,visible_label
+S004,1,4,"Input Bus Line",circuit_symbol,visible_label
+S005,1,5,"Output Bus Line",circuit_symbol,visible_label
+S006,1,6,"Terminal",circuit_symbol,visible_label
+S007,1,7,"Bus Line",circuit_symbol,visible_label
+S008,1,8,"AC Supply",circuit_symbol,visible_label
+S009,2,1,"DC Supply",circuit_symbol,visible_label
+S010,2,2,"Constant Current Source",circuit_symbol,visible_label
+S011,2,3,"Schottky Diode",circuit_symbol,visible_label
+S012,2,4,"Laser Diode",circuit_symbol,visible_label
+S013,2,5,"P-Channel JFET",circuit_symbol,visible_label
+S014,2,6,"Darlington Transistor",circuit_symbol,visible_label
+S015,2,7,"Exnor",circuit_symbol,visible_label
+S016,2,8,"Buffer",circuit_symbol,visible_label
+S017,3,1,"Controlled Current Source",circuit_symbol,visible_label
+S018,3,2,"Controlled Voltage Source",circuit_symbol,visible_label
+S019,3,3,"Single Cell Battery",circuit_symbol,visible_label
+S020,3,4,"Multi Cell Battery",circuit_symbol,visible_label
+S021,3,5,"Push Button (Normally Open)",circuit_symbol,visible_label
+S022,3,6,"Push Button (Normally Closed)",circuit_symbol,visible_label
+S023,3,7,"SPST Switch",circuit_symbol,visible_label
+S024,3,8,"SPDT Switch",circuit_symbol,visible_label
+S025,4,1,"DPST Switch",circuit_symbol,visible_label
+S026,4,2,"DPDT Switch",circuit_symbol,visible_label
+S027,4,3,"Tunnel Diode",circuit_symbol,visible_label
+S028,4,4,"NPN",circuit_symbol,visible_label
+S029,4,5,"Enhancement MOSFET",circuit_symbol,visible_label
+S030,4,6,"Photo Darlington",circuit_symbol,visible_label
+S031,4,7,"Flip Flop",circuit_symbol,visible_label
+S032,4,8,"Tri-State Buffer",circuit_symbol,visible_label
+S033,5,1,"Feed Through Capacitor",circuit_symbol,visible_label
+S034,5,2,"Sinusoidal Generator",circuit_symbol,visible_label
+S035,5,3,"Pulse Generator",circuit_symbol,visible_label
+S036,5,4,"Triangular Wave",circuit_symbol,visible_label
+S037,5,5,"Ground",circuit_symbol,visible_label
+S038,5,6,"Signal Ground",circuit_symbol,visible_label
+S039,5,7,"Chassis Ground",circuit_symbol,visible_label
+S040,5,8,"PN Junction Diode",circuit_symbol,visible_label
+S041,6,1,"Zener Diode",circuit_symbol,visible_label
+S042,6,2,"Photodiode",circuit_symbol,visible_label
+S043,6,3,"Thyristor",circuit_symbol,visible_label
+S044,6,4,"PNP",circuit_symbol,visible_label
+S045,6,5,"Depletion MOSFET",circuit_symbol,visible_label
+S046,6,6,"And Gate",circuit_symbol,visible_label
+S047,6,7,"Or Gate",circuit_symbol,visible_label
+S048,6,8,"Nand Gate",circuit_symbol,visible_label
+S049,7,1,"Variable Capacitor",circuit_symbol,visible_label
+S050,7,2,"Varistor",circuit_symbol,visible_label
+S051,7,3,"Magneto Resistor",circuit_symbol,visible_label
+S052,7,4,"LDR",circuit_symbol,visible_label
+S053,7,5,"Tapped Resistor",circuit_symbol,visible_label
+S054,7,6,"Attenuator",circuit_symbol,visible_label
+S055,7,7,"Memristor",circuit_symbol,visible_label
+S056,7,8,"LED",circuit_symbol,visible_label
+S057,8,1,"Varactor Diode",circuit_symbol,visible_label
+S058,8,2,"Shockley Diode",circuit_symbol,visible_label
+S059,8,3,"Constant Current Diode",circuit_symbol,visible_label
+S060,8,4,"N-Channel JFET",circuit_symbol,visible_label
+S061,8,5,"Phototransistor",circuit_symbol,visible_label
+S062,8,6,"Nor Gate",circuit_symbol,visible_label
+S063,8,7,"Not Gate",circuit_symbol,visible_label
+S064,8,8,"Exor",circuit_symbol,visible_label
+S065,9,1,"Basic Amplifier",circuit_symbol,visible_label
+S066,9,2,"Operational Amplifier",circuit_symbol,visible_label
+S067,9,3,"Antenna",circuit_symbol,visible_label
+S068,9,4,"Loop Antenna",circuit_symbol,visible_label
+S069,9,5,"Dipole Antenna",circuit_symbol,visible_label
+S070,9,6,"Transformer",circuit_symbol,visible_label
+S071,9,7,"Iron Core",circuit_symbol,visible_label
+S072,9,8,"Center Tapped",circuit_symbol,visible_label
+S073,10,1,"Fixed Resistor",circuit_symbol,visible_label
+S074,10,2,"Rheostat",circuit_symbol,visible_label
+S075,10,3,"Preset",circuit_symbol,visible_label
+S076,10,4,"Non Polarized Capacitor",circuit_symbol,visible_label
+S077,10,5,"Polarized Capacitor",circuit_symbol,visible_label
+S078,10,6,"Electrolytic Capacitor",circuit_symbol,visible_label
+S079,10,7,"Thermistor",circuit_symbol,visible_label
+S080,10,8,"Relay Switch",circuit_symbol,visible_label
+S081,11,1,"Step Up Transformer",circuit_symbol,visible_label
+S082,11,2,"Step Down Transformer",circuit_symbol,visible_label
+S083,11,3,"Buzzer",circuit_symbol,visible_label
+S084,11,4,"Loud Speaker",circuit_symbol,visible_label
+S085,11,5,"Light Bulb",circuit_symbol,visible_label
+S086,11,6,"Motor",circuit_symbol,visible_label
+S087,11,7,"Fuse",circuit_symbol,visible_label
+S088,11,8,"Crystal Oscillator",circuit_symbol,visible_label
+S089,12,1,"Iron Core Inductor",circuit_symbol,visible_label
+S090,12,2,"Ferrite Core Inductors",circuit_symbol,visible_label
+S091,12,3,"Center Tapped Inductors",circuit_symbol,visible_label
+S092,12,4,"Variable Inductors",circuit_symbol,visible_label
+S093,12,5,"ADC",circuit_symbol,visible_label
+S094,12,6,"DAC",circuit_symbol,visible_label
+S095,12,7,"Thermocouple",circuit_symbol,visible_label
